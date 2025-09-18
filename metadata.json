@@ -1,0 +1,5 @@
+{
+  "name": "Robô Recrutador IA",
+  "description": "Uma aplicação que utiliza IA para analisar a compatibilidade entre uma vaga de emprego e um currículo, fornecendo uma pontuação, habilidades em comum e sugestões de melhoria.",
+  "requestFramePermissions": []
+}
